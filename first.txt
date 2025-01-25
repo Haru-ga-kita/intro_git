@@ -2,3 +2,4 @@ Git練習用
 バージョン管理用1(基本的なワークフローについて)
 ・git add 
 ・git commit
+・git rm
